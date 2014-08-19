@@ -1,11 +1,18 @@
 ---
 layout: lesson
 root: ../..
-title: Title of Lesson
+title: Basics of home directories
 ---
 <div class="objectives" markdown="1">
 
 #### Objectives
+*   1. What a "home directory" is.
+*   2. How to get to theirs on Linux, Mac, and Windows using both the
+    shell and the usual graphical file explorer.
+*   3. How to move a downloaded file there (which many learners stumble
+    over when first starting a bootcamp). 
+
+
 *   Describe the lesson's objectives in observable ways.
 *   Not "understand X" (which isn't observable) but "Write a program that does X".
 *   Aim for 3-6 points.
